@@ -1,0 +1,18 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+bs4
+flask
+scikit-learn
+memory_profiler
+streamlit
+xgboost
+catboost
+dill
+mlflow==2.21.2
+keras
+hyperopt
+tensorflow
+#-e .
